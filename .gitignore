@@ -1,1 +1,5 @@
 .sass-cache/
+data/*.db
+.vscode/
+.firebase/*
+.github/*
